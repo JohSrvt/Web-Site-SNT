@@ -62,7 +62,7 @@ h2{
     border-right-color: #d0ddee;
     position: relative;
     border-bottom-color: rgb(175, 186, 200);
-    width: var(--matiere_width);
+    width: 180px;
     height: 200px;
 }
 .matiere:hover{
